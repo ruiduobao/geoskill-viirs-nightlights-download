@@ -1,6 +1,6 @@
 ---
 name: viirs-nightlights-download
-description: 'Download VIIRS nighttime light composite data from public sources description: 'Download VIIRS nighttime light composite data from public sources  (EOG/NOAA VNL, NASA LAADS). Supports annual and monthly composites  with regional bbox subsetting.  '
+description: 'Download VIIRS nighttime light composite data from public sources  (EOG/NOAA VNL, NASA LAADS). Supports annual and monthly composites  with regional bbox subsetting.  '
 ---
 
 # VIIRS Nightlights Downloader
