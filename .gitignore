@@ -6,3 +6,6 @@ __pycache__/
 dist/
 build/
 .part
+
+# Upgrade v1: never commit caches or partial downloads
+*.part
